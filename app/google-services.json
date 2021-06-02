@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600202818908",
+    "project_id": "emailpasswordauthenticat-2e883",
+    "storage_bucket": "emailpasswordauthenticat-2e883.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600202818908:android:a1808cb2338f47baa7fd99",
+        "android_client_info": {
+          "package_name": "com.example.emailpasswordauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600202818908-7m6li3monm0g14il0pf6l76nsb453tg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcG3fLNZjT6vjAU6t5i2UF9rtcGn1MMj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600202818908-7m6li3monm0g14il0pf6l76nsb453tg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
